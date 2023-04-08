@@ -7,7 +7,7 @@
 ### 🤔 About
 -  **Working :** NLP Engineer 💻🤖 
 -  **Learning :** Back-End⚡ | Flutter 🔥
--  **Hobbies :** Coffee ☕ | Vollyball 🏐 | Diving 🤿
+-  **Hobbies :** Coffee ☕ | Volleyball 🏐 | Diving 🤿
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him :innocent: 
 -  **Current inspiration :** [What I learned from 100 days of rejection](https://youtu.be/-vZXgApsPCQ)
