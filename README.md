@@ -2,7 +2,7 @@
 <img align="center" height="301" width="902" src="https://user-images.githubusercontent.com/54787524/230722448-c729e9d6-92f8-44ea-ba7d-c063effdce3c.png">
 
 ---
-<img align="right" height="210" width="280" src="https://user-images.githubusercontent.com/54787524/230722230-0a951900-6fda-448e-a443-4bc183b38aec.gif">
+<img align="right" height="220" width="220" src="https://user-images.githubusercontent.com/54787524/232789032-224aec4a-3789-4a98-ab56-7c732c09df30.jpg">
 
 ### 🤔 About
 -  **Working :** NLP Engineer 💻🤖 
