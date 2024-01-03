@@ -5,9 +5,11 @@
 
 ### 🤔 About
 -  **Working :** NLP Engineer 💻🤖 
--  **Learning :** Back-End⚡ | Flutter 🔥
--  **Hobbies :** Coffee ☕ | Volleyball 🏐 | Diving 🤿
+-  **Learning :** PsychoInformatics🧠 | Computer Science💻
+-  **Hobbies :** Coffee ☕ | Volleyball 🏐 | Cooking 🧑‍🍳
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him :innocent: 
 -  **Current inspiration :** [What I learned from 100 days of rejection](https://youtu.be/-vZXgApsPCQ)
--  **Now focus on :** Build a personal portfolio website using Flutter! 👨‍💻
+-  **Now focus on :**
+    - **Preparing for studying abroad!** 🔥
+    - **Establishing a personal knowledge core repository with Obsidian and Zotero.** <img src="https://github.com/liuyuweitarek/liuyuweitarek/assets/54787524/0a35f148-e5e0-4603-a5a4-770c3d762b32" hight=16 width=16/> <img src="https://github.com/liuyuweitarek/liuyuweitarek/assets/54787524/d666390f-1fd0-417c-ba01-b2f08920cc1d" hight=16 width=16/>
