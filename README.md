@@ -9,10 +9,3 @@ Psychoinformatics engineer interested in personal growth and tech trends, and fr
 Research interests mainly focus on tracking authentic behavior, mapping minds, and bridging lab findings to real-world impact.
 
 [![Tarek's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liuyuweitarek&custom_title=Tarek's%20Pulse&theme=github-compact&bg_color=010709&color=49a88d&line=70cdb3&point=403e41&area=true&hide_border=true)](https://github.com/liuyuweitarek)
-
-<div align="center">
-  <a href="https://github.com/liuyuweitarek">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuyuweitarek&show_icons=true&locale=en&layout=compact&theme=gotham&hide=javascript,html,Jupyter%20Notebook,shell,CMake,NetLogo" alt="liuyuweitarek"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liuyuweitarek&show_icons=true&locale=en&layout=compact&theme=gotham" alt="liuyuweitarek"/>
-  </a>
-</div>
